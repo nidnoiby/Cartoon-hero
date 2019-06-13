@@ -1,0 +1,89 @@
+html,body{
+	font-family: Times New Roman, serif;
+	margin: 0;
+	text-align: center;
+}
+
+header{
+	background-color: white;
+	background-image: url("https://www.chicoparty.com/images/products/display/CinderellaBlueGlitter.jpg");
+	background-repeat: repeat;
+	padding: 40px 50px ;
+	text-align: center;
+}
+
+header h1{
+	font-weight: 900;
+	font-size: 60px;
+	color: white;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+header img{
+	border-radius: 200px;
+	height: 360px;
+	border: 20px solid #ADD8E6;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+h2{
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: grey;
+	font-style: italic;
+	text-align: center;
+}
+
+ol,ul{
+	list-style: none;
+	padding: 0;
+	margin:20px auto 40px ;
+	max-width: 600px;
+}
+
+li{
+	background-color:#ADD8E6;
+	border-radius: 10px;
+	margin: 5px 0;
+	padding: 5px;  
+	\
+}
+
+a{
+	color:#6495ED;
+	text-decoration: none;
+}
+
+footer{
+	padding: 40px 20px;
+	background-color: #ADD8E6;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+/*<header>
+		<img src="img/profile.jpg">
+		<h1>Cinderella</h1>
+	</header>*/
